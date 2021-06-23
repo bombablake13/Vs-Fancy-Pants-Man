@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fpPortrait.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fp Portrait Enter0000" x="0" y="0" width="1722" height="1001"/>
+	<SubTexture name="fp Portrait Enter0001" x="1732" y="0" width="1722" height="1001"/>
+	<SubTexture name="fp Portrait Enter0002" x="1732" y="0" width="1722" height="1001"/>
+	<SubTexture name="fp Portrait Enter0003" x="0" y="1011" width="1722" height="1001"/>
+	<SubTexture name="fp Portrait Enter0004" x="0" y="1011" width="1722" height="1001"/>
+	<SubTexture name="fp Portrait Enter0005" x="1732" y="1011" width="1722" height="1001"/>
+	<SubTexture name="fp Portrait Enter0006" x="1732" y="1011" width="1722" height="1001"/>
+	<SubTexture name="fp Portrait Enter0007" x="1732" y="1011" width="1722" height="1001"/>
+	<SubTexture name="fp Portrait Enter0008" x="1732" y="1011" width="1722" height="1001"/>
+</TextureAtlas>
